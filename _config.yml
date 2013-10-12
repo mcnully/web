@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
+name: McNully Co.
 markdown: redcarpet
 pygments: true
+author: Peyton McNully
+description: "Process and Technology Architects"
+keywords: "apps, technology, iOS, Android, development, turnaround, consultant, fixer"
